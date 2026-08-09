@@ -26,8 +26,19 @@
 ├── <a href="13-construct/">13-construct/</a>
 ├── <a href="14-group/">14-group/</a>
 ├── <a href="15-tricks/">15-tricks/</a>
-└── <a href="16-basic-knowledge/">16-basic-knowledge/</a>
+├── <a href="16-basic-knowledge/">16-basic-knowledge/</a>
+└── <a href="python-template/">python-template/</a> (Python 算法模板库，包含 111 个经典算法模板及全自动化测试驱动)
 </pre>
+
+### Python 模板使用与测试
+
+`python-template/` 目录下包含了完整的 Python 算法模板库，涵盖数论、图论、数据结构、字符串、计算几何等 13 大类算法。
+在该目录下运行以下命令即可对全量 111 个 Python 算法模板进行微分/对拍测试：
+
+```bash
+cd python-template
+python3 _verify_all.py
+```
 
 
 ## License
