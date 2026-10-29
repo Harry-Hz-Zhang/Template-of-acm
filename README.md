@@ -11,23 +11,23 @@
 <pre>
 <a href="./">Template-of-acm</a>
 ├── <a href="cpp-template/">cpp-template/</a> (C++ 算法模板与 Markdown 讲解)
-│   ├── <a href="cpp-template/Supplements/">Supplements/</a>
-│   ├── <a href="cpp-template/NumberTheory/">NumberTheory/</a>
-│   ├── <a href="cpp-template/BasicAlgorithms/">BasicAlgorithms/</a>
-│   ├── <a href="cpp-template/Combinatorics/">Combinatorics/</a>
-│   ├── <a href="cpp-template/LinearAlgebra/">LinearAlgebra/</a>
-│   ├── <a href="cpp-template/Polynomial/">Polynomial/</a>
-│   ├── <a href="cpp-template/Geometry/">Geometry/</a>
-│   ├── <a href="cpp-template/Graph/">Graph/</a>
-│   ├── <a href="cpp-template/DataStructures/">DataStructures/</a>
-│   ├── <a href="cpp-template/DynamicProgramming/">DynamicProgramming/</a>
-│   ├── <a href="cpp-template/Strings/">Strings/</a>
-│   ├── <a href="cpp-template/GameTheory/">GameTheory/</a>
-│   ├── <a href="cpp-template/Probability/">Probability/</a>
-│   ├── <a href="cpp-template/Construct/">Construct/</a>
-│   ├── <a href="cpp-template/GroupTheory/">GroupTheory/</a>
-│   ├── <a href="cpp-template/Tricks/">Tricks/</a>
-│   └── <a href="cpp-template/BasicKnowledge/">BasicKnowledge/</a>
+│   ├── <a href="cpp-template/基础算法/">基础算法/</a>
+│   ├── <a href="cpp-template/基础知识/">基础知识/</a>
+│   ├── <a href="cpp-template/组合数学/">组合数学/</a>
+│   ├── <a href="cpp-template/构造/">构造/</a>
+│   ├── <a href="cpp-template/数据结构/">数据结构/</a>
+│   ├── <a href="cpp-template/动态规划/">动态规划/</a>
+│   ├── <a href="cpp-template/博弈论/">博弈论/</a>
+│   ├── <a href="cpp-template/几何/">几何/</a>
+│   ├── <a href="cpp-template/图论/">图论/</a>
+│   ├── <a href="cpp-template/群论/">群论/</a>
+│   ├── <a href="cpp-template/线性代数/">线性代数/</a>
+│   ├── <a href="cpp-template/数论/">数论/</a>
+│   ├── <a href="cpp-template/多项式/">多项式/</a>
+│   ├── <a href="cpp-template/概率论/">概率论/</a>
+│   ├── <a href="cpp-template/字符串/">字符串/</a>
+│   ├── <a href="cpp-template/技巧积累/">技巧积累/</a>
+│   └── <a href="cpp-template/补充资料/">补充资料/</a>
 └── <a href="python-template/">python-template/</a> (Python 算法模板库，包含 111 个经典算法模板及全自动化测试驱动)
 </pre>
 
